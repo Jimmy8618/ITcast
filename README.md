@@ -1,0 +1,2 @@
+# ITcast
+scrapy test
